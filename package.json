@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "fix": "./node_modules/.bin/eslint.cmd --fix ."
   },
   "author": "ronsong",
   "license": "MIT",
