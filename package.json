@@ -1,0 +1,19 @@
+{
+  "name": "is_odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ronsong",
+  "license": "MIT",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.0.1",
+    "mocha": "^6.1.4"
+  }
+}

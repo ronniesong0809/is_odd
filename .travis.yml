@@ -1,0 +1,5 @@
+sudo: false
+os:
+  - linux
+  - osx
+language: node_js
