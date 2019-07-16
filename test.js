@@ -1,5 +1,4 @@
 'use strict'
-
 require('mocha')
 var assert = require('assert')
 var isEven = require('./')
