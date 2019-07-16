@@ -1,11 +1,11 @@
 {
-  "name": "is_odd",
+  "name": "is_odd_demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "fix": "./node_modules/.bin/eslint.cmd --fix ."
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha"
   },
   "author": "ronsong",
   "license": "MIT",
@@ -15,6 +15,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.0.1",
+    "istanbul": "^0.4.5",
     "mocha": "^6.1.4"
   }
 }
