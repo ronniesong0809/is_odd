@@ -1,4 +1,4 @@
-# NPM Demo: is_even
+# NPM Demo: Is_Even
 
 [![Build Status](https://travis-ci.com/ronniesong0809/npm_demo_is_even.svg?branch=master)](https://travis-ci.com/ronniesong0809/npm_demo_is_even)
 [![Coverage Status](https://coveralls.io/repos/github/ronniesong0809/npm_demo_is_even_/badge.svg?branch=master)](https://coveralls.io/github/ronniesong0809/npm_demo_is_even_?branch=master)
